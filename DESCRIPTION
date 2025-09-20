@@ -1,6 +1,6 @@
 Package: pakiet 
 Title: Nic ciekawego - zobaczymy 
-Version: 0.0.0.1
+Version: 0.0.0.2
 Authors@R: 
     person("Mateusz", "Rzeszutek", , "rzeszut@agh.edu.pl", role = c("aut", "cre"))
 Description: To jest pakiet testowy.
