@@ -17,3 +17,5 @@ Depends:
     R (>= 3.5)
 LazyData: true
 VignetteBuilder: knitr
+URL: https://github.com/mrzeszut/pakiet
+BugReports: https://github.com/mrzeszut/pakiet/issues
