@@ -1,10 +1,19 @@
-Package: pakiet fach 
+Package: pakiet 
 Title: Nic ciekawego - zobaczymy 
 Version: 0.0.0.1
 Authors@R: 
-    person("Mateusz", "Rzeszutek", , "rzeszut@agh.edu.pl", role = c("aut"))
+    person("Mateusz", "Rzeszutek", , "rzeszut@agh.edu.pl", role = c("aut", "cre"))
 Description: To jest pakiet testowy.
-License: `use_mit_license()`
+License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
+Suggests: 
+    knitr,
+    rmarkdown,
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+Depends: 
+    R (>= 3.5)
+LazyData: true
+VignetteBuilder: knitr
