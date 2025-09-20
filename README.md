@@ -5,6 +5,7 @@
 
 <!-- badges: start -->
 
+[![R-CMD-check](https://github.com/mrzeszut/pakiet/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/mrzeszut/pakiet/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of pakiet fach is to …
